@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sy:switchyard xmlns:sy="urn:switchyard-config:switchyard:2.0" name="sca-binding-test-artifacts" targetNamespace="urn:cz.baros.wildfly.sy.sca:sca-binding-test-artifacts:0.0.1-SNAPSHOT"/>
