@@ -46,6 +46,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .metadata/*
+target/*
 RemoteSystemsTempFiles/.project
 *.project
 *.classpath
